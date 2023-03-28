@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassa Tamer</h1>
 <h3 align="center">A CS student in my third year, ACPC finalist.</h3>
-- 🌱 I’m currently learning Ruby on rails & react on rails
+- 🌱 I’m currently learning Ruby on rails & looking forward to contribute in react on rails
 
 
 - This was my last project : C++ console chess game app. It demonstrates my OOP & OOD skills. Unit testing is used to test each component separately. Git and Github are used to share the project among the contributors. [Chess game in C++](https://github.com/Yassa-hue/chess/)
