@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassa Tamer</h1>
-<h3 align="center">A CS student in my third year. I'm am ACPC finalist.</h3>
+<h3 align="center">A CS student in my third year, ACPC finalist.</h3>
 - 🌱 I’m currently learning Ruby on rails & react on rails
 
 
