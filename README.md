@@ -18,10 +18,9 @@ Databases : Indexes are used to maintain high performance as the number of recor
 <h3 align="left">Books that I read:</h3>
 - Extreme C by Kamran Amini  ( OOP in c programming language and some operating system principals ). <br>
 - Clean Code by Robert C. Martin ( Chosen chapters ). <br>
-- You do not know javascript by by Kyle Simpson. <br>
+- You do not know javascript by Kyle Simpson. <br>
 - The ruby programming language by David Flanagan & Yukihiro Matsumoto ( Chosen chapters ). <br>
 
-- 📫 How to reach me **yassatamer99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
