@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ruby on rails & looking forward to contribute in react on rails
 
 
-- This was my last project : C++ console chess game app. It demonstrates my OOP & OOD skills. Unit testing is used to test each component separately. Git and Github are used to share the project among the contributors. [Chess game in C++](https://github.com/Yassa-hue/chess/)
+- This was my last project : C++ console chess game app. It demonstrates my OOP & OOD skills. Unit testing is used to test the path of each piece. Git and Github are used to share the project among the contributors. [Chess game in C++](https://github.com/Yassa-hue/chess/)
 
 
 - This is an online book library and reader.  
@@ -13,6 +13,13 @@ I used the power of FP to make the code testable, extendable and readable.
 Databases : Indexes are used to maintain high performance as the number of records grows. [On line book reader](https://github.com/Yassa-hue/BookLib)
 
 - Small compiler implementation in c++. console app. A small implementation for a compiler. This compiler supports creating variables, if condition and while loop. [Toro](https://github.com/Yassa-hue/toro)
+
+
+<h3 align="left">Books that I read:</h3>
+- Extreme C by Kamran Amini  ( OOP in c programming language and some operating system principals ).
+- Clean Code by Robert C. Martin ( Chosen chapters ).
+- You do not know javascript by by Kyle Simpson.
+- The ruby programming language by David Flanagan & Yukihiro Matsumoto ( Chosen chapters ).
 
 - 📫 How to reach me **yassatamer99@gmail.com**
 
