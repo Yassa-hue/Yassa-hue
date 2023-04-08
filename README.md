@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning Ruby on rails & looking forward to contribute in react on rails
 
 
-- This was my last project [Chess game in C++](https://github.com/Yassa-hue/chess/) : 
+- This is my first Ruby on Rails project, called [ICPC Community](https://github.com/Yassa-hue/IcpcSohagCommunity):
+  - It utilizes a third-party API (Codeforces API) to automatically track trainees' solved problems, eliminating the need for manual updating.
+  - The project includes three distinct user types, each with their own specific privileges and permissions.   
+
+
+
+- This was my last C++ project [Chess game in C++](https://github.com/Yassa-hue/chess/) : 
   - Demonstrates my OOP & OOD skills
   - Utilizes unit testing to test the path of each piece
   - Git and Github are used for version control and to share the project with contributors
