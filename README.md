@@ -11,20 +11,20 @@
 
 - This was my last C++ project [Chess game in C++](https://github.com/Yassa-hue/chess/) : 
   - Demonstrates my OOP & OOD skills
-  - Utilizes unit testing to test the path of each piece
+  - Utilizes **unit testing** to test the path of each piece
   - Git and Github are used for version control and to share the project with contributors
 
 
 
-- This is an online book library and reader [On line book reader](https://github.com/Yassa-hue/BookLib). In this project:
-  - Functional programming : This project is designed by FP from A to Z. 
-  - I used the power of FP to make the code testable, extendable and readable. 
-  - Databases : Indexes are used to maintain high performance as the number of records grows.
+- [On line book reader](https://github.com/Yassa-hue/BookLib) is an online book library and reader project, designed using functional programming principles:
+  - The project has been designed from the ground up using **functional programming (FP) principles**, making the code more testable, extensible, and readable.
+  - High performance has been maintained as the number of records grows by using **indexes** in the database.
 
-- Small compiler implementation in c++. console app [Toro](https://github.com/Yassa-hue/toro):
-  -  A small implementation for a compiler. 
-  -  This compiler supports creating variables, if condition and while loop.
-  -  Unit testing used to test major components.
+- [Toro](https://github.com/Yassa-hue/toro) is a console application implementing a small compiler in C++:
+  -  The project includes a small but functional implementation of a compiler.
+  -  The compiler is capable of creating variables, supporting if conditions and while loops.
+  -  Major components of the compiler have been thoroughly tested using **unit testing**.
+
 
 
 <h3 align="left">Relevant Books I've Read:</h3>
