@@ -11,7 +11,7 @@
 
 - This was my last C++ project [Chess game in C++](https://github.com/Yassa-hue/chess/) : 
   - Demonstrates my OOP & OOD skills
-  - Utilizes **unit testing** to test the path of each piece
+  - Utilizes **unit testing** to test some of the main components.
   - Git and Github are used for version control and to share the project with contributors
 
 
